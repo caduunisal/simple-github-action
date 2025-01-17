@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu:latest
     steps:
       - name: Echo a string
-        run: echo "Learning Github Actions!"
+        run: echo "Welcome! Learning Github Actions!"
